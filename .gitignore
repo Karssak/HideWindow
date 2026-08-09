@@ -1,0 +1,17 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Vendor directory
+/vendor/
+
+# Editor files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
